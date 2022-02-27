@@ -16,9 +16,9 @@
 
 I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :)
 
-<img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="530" height="330"/>  
+<img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="450" height="270"/>  
 
-## 🔥 I’m currently working on
+## 🔥 Current Projects
 * A 14-week Java Bootcamp through Tech Elevator
 * A Homeschool Tracker Log
 * Some small Java side-projects
@@ -40,7 +40,7 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&langs_count=10&layout=compact&bg_color=0b0b0a&text_color=b63a65&title_color=7f60e6&hide_border=true&card_width= 500&custom_title=Languages I'm Using"/>
-</a>
+</a><br>
 
 
 🚧 **my todoist stats:**
