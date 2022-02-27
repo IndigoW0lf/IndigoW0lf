@@ -43,7 +43,7 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,906 Karma Points           
+🏆  8,406 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 532 tasks so far           
 ⏳  Longest streak is 5 days
