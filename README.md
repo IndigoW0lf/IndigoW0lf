@@ -18,7 +18,7 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 
 <img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="530" height="330"/>  
 
-## 🔥 I’m currently working on ...
+## 🔥 I’m currently working on
 * A 14-week Java Bootcamp through Tech Elevator
 * A Homeschool Tracker Log
 * Some small Java side-projects
