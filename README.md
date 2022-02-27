@@ -8,8 +8,7 @@
 <a href="https://www.instagram.com/indigow0lf/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<br/>
-
+<br>
 
 I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design feels and the overall user experience. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :)
 
@@ -17,13 +16,13 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 
 ### I'm so glad you're here 
 
-##🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 * A 14-week Java Bootcamp through Tech Elevator
 * A Homeschool Tracker Log
 * Some small Java side-projects
 * Finishing up my BA in Psychology
 
-##💬 Ask me about
+## 💬 Ask me about
 * Homeschooling kids while working ;)
 * Psychology
 * Permaculture
@@ -35,7 +34,7 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 
 - ⭐️ Current Tech Stack - Learning!
 
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=61DAFB" alt="git logo" title="git" height="25" /><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=61DAFB" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=61DAFB" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=61DAFB" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=61DAFB" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=61DAFB" alt="MongoDB logo" title="MongoDB" height="25" /><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=61DAFB" alt="Node.js logo" title="Node.js" height="25" /><img src="https://img.shields.io/badge/IntelliJIDEA-282C34?logo=IntelliJIDEA&logoColor=61DAFB" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=61DAFB" alt="Java logo" title="Java" height="25" /><img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DAFB" alt="Vue.js logo" title="Vue.js" height="25" /><img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXD&logoColor=61DAFB" alt="Adobe XD logo" title="Adobe XD" height="25" /><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=61DAFB" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=61DAFB" alt="Postman logo" title="Postman" height="25" /><img src="https://img.shields.io/badge/Salesforce-282C34?logo=Salesforce&logoColor=61DAFB" alt="Salesforce logo" title="Salesforce" height="25" /> <img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=61DAFB" alt="Xcode logo" title="Xcode" height="25" /><img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=61DAFB" alt="Heroku logo" title="Heroku" height="25" /> 
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=61DAFB" alt="git logo" title="git" height="25" /><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=61DAFB" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=61DAFB" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=61DAFB" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=61DAFB" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=61DAFB" alt="MongoDB logo" title="MongoDB" height="25" /><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=61DAFB" alt="Node.js logo" title="Node.js" height="25" /><img src="https://img.shields.io/badge/IntelliJIDEA-282C34?logo=IntelliJIDEA&logoColor=61DAFB" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=61DAFB" alt="Java logo" title="Java" height="25" /><img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DAFB" alt="Vue.js logo" title="Vue.js" height="25" /><img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXD&logoColor=61DAFB" alt="Adobe XD logo" title="Adobe XD" height="25" /><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=61DAFB" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=61DAFB" alt="Postman logo" title="Postman" height="25" /><img src="https://img.shields.io/badge/Salesforce-282C34?logo=Salesforce&logoColor=61DAFB" alt="Salesforce logo" title="Salesforce" height="25" /><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=61DAFB" alt="Xcode logo" title="Xcode" height="25" /><img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=61DAFB" alt="Heroku logo" title="Heroku" height="25" /><img src="https://img.shields.io/badge/Vercel-282C34?logo=Vercel&logoColor=61DAFB" alt="Vercel logo" title="Vercel" height="25" /> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&layout=compact&theme=gotham"/>
