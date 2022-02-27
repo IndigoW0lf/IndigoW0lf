@@ -7,10 +7,10 @@
 </a>
 <a href="https://www.instagram.com/indigow0lf/">
   <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>  <br>
+</a><br>
 
-
-I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design feels and the overall user experience. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :)
+<center>
+I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design feels and the overall user experience. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :) </center>
 
 <img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="470" height="318"/>
 
