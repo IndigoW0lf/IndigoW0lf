@@ -1,4 +1,4 @@
-### 🐺 I'm Kai Indigo Wolf  ![](https://visitor-badge.glitch.me/badge?page_id=indigow0lf.indigow0lf)
+# 🐺 I'm Kai Indigo Wolf  ![](https://visitor-badge.glitch.me/badge?page_id=indigow0lf.indigow0lf)
 
 <a href="https://www.linkedin.com/in/indigowolf/">
   <img align="left" alt="Kai Indigo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -7,16 +7,16 @@
 </a>
 <a href="https://www.instagram.com/indigow0lf/">
   <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a><br>
-
-<center>
-I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design feels and the overall user experience. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :) </center>
-
-<img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="470" height="318"/>
+</a><a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <br>
 
 ### I'm so glad you're here 
 
-## 🔭 I’m currently working on ...
+I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :)
+
+<img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="530" height="330"/>  
+
+## 🔥 I’m currently working on ...
 * A 14-week Java Bootcamp through Tech Elevator
 * A Homeschool Tracker Log
 * Some small Java side-projects
@@ -30,14 +30,14 @@ I'm a full-stack software engineer student with a flair for innovative solutions
 * Pet-related stuff
 * UX Design
 
-### 😄 Pronouns: They/them
+### 💟 Pronouns: They/them
 
 ### ⭐️ Current Tech Stack - Learning!
 
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=61DAFB" alt="git logo" title="git" height="25" /><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=61DAFB" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=61DAFB" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=61DAFB" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=61DAFB" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=61DAFB" alt="MongoDB logo" title="MongoDB" height="25" /><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=61DAFB" alt="Node.js logo" title="Node.js" height="25" /><img src="https://img.shields.io/badge/IntelliJIDEA-282C34?logo=IntelliJIDEA&logoColor=61DAFB" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=61DAFB" alt="Java logo" title="Java" height="25" /><img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=61DAFB" alt="Vue.js logo" title="Vue.js" height="25" /><img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXD&logoColor=61DAFB" alt="Adobe XD logo" title="Adobe XD" height="25" /><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=61DAFB" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=61DAFB" alt="Postman logo" title="Postman" height="25" /><img src="https://img.shields.io/badge/Salesforce-282C34?logo=Salesforce&logoColor=61DAFB" alt="Salesforce logo" title="Salesforce" height="25" /><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=61DAFB" alt="Xcode logo" title="Xcode" height="25" /><img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=61DAFB" alt="Heroku logo" title="Heroku" height="25" /><img src="https://img.shields.io/badge/Vercel-282C34?logo=Vercel&logoColor=61DAFB" alt="Vercel logo" title="Vercel" height="25" /> 
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=b63a65" alt="git logo" title="git" height="25" /><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=b63a65" alt="MongoDB logo" title="MongoDB" height="25" /><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=b63a65" alt="Node.js logo" title="Node.js" height="25" /><img src="https://img.shields.io/badge/IntelliJIDEA-282C34?logo=IntelliJIDEA&logoColor=b63a65" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=b63a65" alt="Java logo" title="Java" height="25" /><img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=b63a65" alt="Vue.js logo" title="Vue.js" height="25" /><img src="https://img.shields.io/badge/AdobeXD-282C34?logo=AdobeXD&logoColor=b63a65" alt="Adobe XD logo" title="Adobe XD" height="25" /><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=b63a65" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=b63a65" alt="Postman logo" title="Postman" height="25" /><img src="https://img.shields.io/badge/Salesforce-282C34?logo=Salesforce&logoColor=b63a65" alt="Salesforce logo" title="Salesforce" height="25" /><img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=b63a65" alt="Xcode logo" title="Xcode" height="25" /><img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=b63a65" alt="Heroku logo" title="Heroku" height="25" /><img src="https://img.shields.io/badge/Vercel-282C34?logo=Vercel&logoColor=61DAFB" alt="Vercel logo" title="Vercel" height="25" /> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&layout=compact&theme=gotham"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&langs_count=10&layout=compact&bg_color=0b0b0a&text_color=b63a65&title_color=7f60e6&hide_border=true&card_width= 650&custom_title=Languages I'm Using"/>
 </a>
 
 
