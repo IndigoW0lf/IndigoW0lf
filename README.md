@@ -21,7 +21,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 <img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="450" height="270"/>  
 
 ## 🔥 Current Projects
-* A 14-week Java Bootcamp through Tech Elevator
+* A 14-week Java Bootcamp through Tech Elevator!
 * A Homeschool Tracker Log
 * Some small Java side-projects
 * Finishing up my BA in Psychology
