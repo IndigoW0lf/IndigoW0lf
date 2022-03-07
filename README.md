@@ -47,9 +47,9 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  9,241 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 561 tasks so far           
+🏆  9,254 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 562 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
