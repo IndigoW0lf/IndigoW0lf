@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/indigowolf/">
   <img align="left" alt="Kai Indigo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg">
-  <img align="left" alt="Kai Indigo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Kai Indigo's Spotify" width="22px" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/20c6f5cb222f0daefe7ad38bc61f0266db44535c/3D-spotify-logo-premium-PNG.png" />
 </a>
 <a href="https://www.instagram.com/indigow0lf/">
   <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
