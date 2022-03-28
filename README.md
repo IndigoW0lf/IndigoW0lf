@@ -14,7 +14,7 @@
 
 ### I'm so glad you're here 
 
-I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC. I am ready for a relocation! My ideal job would be working front-end as a UX engineer, but I am open to learning anything and finding my niche as I go :)
+I'm a full-stack software engineer student with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions. As a software developer, I plan to focus on improving the user experience as I learn more about visceral, behavioral, and reflective processes. I'm starting my career search and would love to find work remotely or in Charlotte, NC, Denver, CO, Portland, OR, and maybe more :)
 
 I'm a passionate advocate for social and environmental justice and the idea of working for a company that focuses on effecting change is incredibly appealing.
 
