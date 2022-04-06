@@ -56,7 +56,7 @@ src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt=
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  9,973 Karma Points           
+🏆  9,999 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 623 tasks so far           
 ⏳  Longest streak is 5 days
