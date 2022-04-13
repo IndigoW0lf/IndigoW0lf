@@ -14,7 +14,8 @@
 
 ### I'm so glad you're here 
 
-I'm a full-stack software engineer student pursuing knowledge in data analysis/engineering/science with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions.  
+I'm a junior full-stack software engineer pursuing a career in data analysis/engineering/science with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives.
+
 I'm starting my career search and would love to find work remotely or in Charlotte, NC, Denver, CO, Honolulu, HI, or Portland, OR.
 
 I'm a passionate advocate for social and environmental justice and the idea of working for a company that focuses on effecting change is incredibly appealing.
@@ -23,7 +24,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 ## 🔥 Current Projects
 * A 14-week Java Bootcamp through Tech Elevator!
-* A Homeschool Tracker Log
+* GoogleCloud from end-to-end. Learning all processes from ingestion to storytelling
 * Soaking up SQL and Python like there's no tomorrow
 * Finishing up my BA in Psychology
 
@@ -43,7 +44,8 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 src="https://img.shields.io/badge/MySQL-0b0b0a?logo=MySQL&logoColor=b63a65" alt="MySQL logo" title="MySQL" height="25" /><img
 src="https://img.shields.io/badge/Python-0b0b0a?logo=python&logoColor=b63a65" alt="Python logo" title="Python" height="25" /><img
 src="https://img.shields.io/badge/NumPy-0b0b0a?logo=NumPy&logoColor=b63a65" alt="NumPy" title="NumPy" height="25" /><img
-src="https://img.shields.io/badge/NumPy-0b0b0a?logo=NumPy&logoColor=b63a65" alt="NumPy" title="NumPy" height="25" /><img                                   src="https://img.shields.io/badge/Looker-0b0b0a?logo=Looker&logoColor=b63a65" alt="Looker" title="Looker" height="25" /><img
+src="https://img.shields.io/badge/pandas-0b0b0a?logo=pandas&logoColor=b63a65" alt="pandas" title="pandas" height="25" /><img
+src="https://img.shields.io/badge/GoogleCloud-0b0b0a?logo=GoogleCloud&logoColor=b63a65" alt="GoogleCloud" title="GoogleCloud" height="25" /><img                       src="https://img.shields.io/badge/Looker-0b0b0a?logo=Looker&logoColor=b63a65" alt="Looker" title="Looker" height="25" /><img
 src="https://img.shields.io/badge/Tableau-0b0b0a?logo=Tableau&logoColor=b63a65" alt="Tableau logo" title="Tableau" height="25" /><img
 src="https://img.shields.io/badge/PostgreSQL-0b0b0a?logo=PostgreSQL&logoColor=b63a65" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img
 src="https://img.shields.io/badge/MongoDB-0b0b0a?logo=mongodb&logoColor=b63a65" alt="MongoDB logo" title="MongoDB" height="25" /><img src="https://img.shields.io/badge/VS%20Code-0b0b0a?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/><img
