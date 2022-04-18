@@ -14,7 +14,7 @@
 
 ### I'm so glad you're here 
 
-I'm a junior full-stack software engineer pursuing a career in data analysis/engineering/science with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives.
+I'm a junior full-stack software engineer fascinated with front-end, UX, data analysis, and data engineering with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives.
 
 I'm starting my career search and would love to find work remotely or in Charlotte, NC, Denver, CO, Honolulu, HI, or Portland, OR.
 
