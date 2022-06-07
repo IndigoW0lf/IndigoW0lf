@@ -16,7 +16,7 @@
 
 I'm a junior full-stack software engineer fascinated with front-end, UX, data analysis, and data engineering with a flair for innovative solutions. I'm very concerned with the way design performs and the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives.
 
-I'm starting my career search and would love to find work remotely or in Colorado, California, Oregon, Washington, or Hawaii.
+I'm starting my career search and would love to find work remotely or in Portland, OR.
 
 I'm a passionate advocate for social and environmental justice and the idea of working for a company that focuses on effecting change is incredibly appealing.
 
@@ -26,8 +26,8 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 * Expanding my data structures and algorithm understandings
 * Deep learning into JS and learning React
 * Soaking up SQL and Python like there's no tomorrow
-* Finishing up my BA in Psychology
-* Getting ready for a summer internship!
+* Finishing up my BS in Computer Science
+* Soaking up all I can in my summer internship!
 
 ## 💬 Ask me about
 * Homeschooling kids while working ;)
