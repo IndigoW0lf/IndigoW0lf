@@ -23,9 +23,8 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 ## 🔥 Current Projects
 * Expanding my data structures, algorithm, and design pattern understandings
 * Deep learning into JS and learning React + GraphQL
-* Making my way through Coursera's ML specialization
 * Finishing up my BS in Computer Science
-* Soaking up all I can in my summer internship!
+* Soaking up all I can in my amazing summer internship!
 
 ## 💬 Ask me about
 * Homeschooling kids while working ;)
