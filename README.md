@@ -24,6 +24,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 
 ## 🔥 Current Projects
+* Utilizing React, GraphQL, Apollo Client to create a SpaceX website my kids will enjoy
 * Expanding my data structures, algorithm, and design pattern understandings
 * Deep learning into JS and learning React + GraphQL
 * Finishing up my BS in Software Development
