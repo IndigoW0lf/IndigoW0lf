@@ -18,8 +18,9 @@ I'm a full-stack software engineer fascinated with front-end and UX design with 
 
 I'm a passionate advocate for social and environmental justice and the idea of working for a company that focuses on effecting change is incredibly appealing.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura&custom_title=Kai Indigo's Stats"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt='GIF' width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura"/>
 
+  
 #
 
 
@@ -50,10 +51,11 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 <img src="https://img.shields.io/badge/git-0b0b0a?logo=git&logoColor=b63a65" alt="git logo" title="git" height="25" /><img                       src="https://img.shields.io/badge/React-0b0b0a?logo=React&logoColor=b63a65" alt="React" title="React" height="25" /><img                       src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=GraphQL&logoColor=b63a65" alt="Graph QL" title="GraphQL" height="25" /><img                       src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=TailwindCSS&logoColor=b63a65" alt="Tailwind" title="Tailwind" height="25" /><img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img
 src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" />
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&langs_count=10&layout=compact&bg_color=0b0b0a&text_color=b63a65&title_color=7f60e6&hide_border=true&card_width= 500&custom_title=Languages I'm Using"/>
+    
+  
 </a><br>
+  
+ 
 
 
 
