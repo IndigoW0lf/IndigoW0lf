@@ -25,31 +25,31 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 
 ## 🔥 Current Projects
-* Utilizing React, GraphQL, Apollo Client to create a SpaceX website my kids will enjoy
 * Expanding my data structures, algorithm, and design pattern understandings
-* Deep learning into JS and learning React + GraphQL
-* Finishing up my BS in Software Development
-* Soaking up all I can in my amazing summer internship!
+* Finishing up my BS in Software Engineering at WGU
+* Working on hackathons and connecting all my passions through applied projects!
 #
 
-<img align="right" alt="GIF" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/8fd6f0dbc30c2ffb631afb85ed188c1dc8dac3ad/CatGirlGif.gif" width="450" height="270"/>  
+<img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
 
 
-## 💬 Ask me about
-* Homeschooling kids while working ;)
+## 💬 Passionate about
+* Homeschooling kids
 * Psychology
 * Permaculture
 * Houseplants
-* Pet-related stuff
-* UX Design
+* Singing :)
+* Social and Environmental Justice
+* Social Good Organizations
+* AI/ML applications and ethics
 
 
 ### 💟 Pronouns: They/them
 
 ### ⭐️ Current Tech Stack
 
-<img src="https://img.shields.io/badge/git-0b0b0a?logo=git&logoColor=b63a65" alt="git logo" title="git" height="25" /><img                       src="https://img.shields.io/badge/React-0b0b0a?logo=React&logoColor=b63a65" alt="React" title="React" height="25" /><img                       src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=GraphQL&logoColor=b63a65" alt="Graph QL" title="GraphQL" height="25" /><img                       src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=TailwindCSS&logoColor=b63a65" alt="Tailwind" title="Tailwind" height="25" /><img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img
-src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/git-0b0b0a?logo=git&logoColor=b63a65" alt="git logo" title="git" height="25" /><img                       src="https://img.shields.io/badge/React-0b0b0a?logo=React&logoColor=b63a65" alt="React" title="React" height="25" /><img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img
+src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/Python-0b0b0a?logo=python&logoColor=b63a65" alt="Python logo" title="Python" height="25" /><img src="https://img.shields.io/badge/Tableau-0b0b0a?logo=tableau&logoColor=b63a65" alt="Tableau logo" title="Tableau" height="25" /><img src="https://img.shields.io/badge/Java-0b0b0a?logo=Java&logoColor=b63a65" alt="Java logo" title="Java" height="25" />
 
     
   
