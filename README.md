@@ -14,9 +14,9 @@
 
 ### I'm so glad you're here 
 
-I'm a full-stack software engineer fascinated with UX and storytelling through data visualization, with a flair for innovative solutions. I'm very concerned with the way design performs, the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives.
+I'm a software engineer fascinated with AI, UX, and storytelling through data visualization, with a flair for innovative solutions and process efficiency. I'm very concerned with the way design performs, the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people and change lives, maybe even save the world.
 
-I'm a passionate advocate for social and environmental justice and the idea of working for a company that focuses on effecting change is incredibly appealing.
+I'm a passionate advocate for social and environmental justice and the idea of working with or for a company that focuses on effecting change is incredibly appealing.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt='GIF' width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura"/>
 
@@ -28,6 +28,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 * Expanding my data structures, algorithm, and design pattern understandings
 * Finishing up my BS in Software Engineering at WGU
 * Working on hackathons and connecting all my passions through applied projects!
+* Trying to motivate myself to put more of my relevant projects in my portfolio :p 
 #
 
 <img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
