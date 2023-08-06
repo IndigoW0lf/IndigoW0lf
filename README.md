@@ -26,7 +26,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 ## 🔥 Current Projects
 * Expanding my data structures, algorithm, and design pattern understandings
-* Finishing up my BS in Software Engineering at WGU
+* Finishing up my BS in Data Analytics at WGU
 * Working on hackathons and connecting all my passions through applied projects!
 * Trying to motivate myself to put more of my relevant projects in my portfolio :p 
 #
@@ -44,8 +44,6 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 * Social Good Organizations
 * AI/ML applications and ethics
 
-
-### 💟 Pronouns: They/them
 
 ### ⭐️ Current Tech Stack
 
