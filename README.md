@@ -24,9 +24,9 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 #
 
 
-## 🔥 Current + Recent Things I'm Working On
+## 🔥 Current + Recent Projects
 * Finishing up my BS in Data Analytics at WGU
-- **Songs for Causes**: A unique platform dedicated to curating and showcasing music that resonates with powerful social and environmental messages. In a world filled with noise, I aim to amplify the voices of artists who use their talents to inspire change, raise awareness, and challenge the status quo.
+- **Songs for Solidarity**: A unique platform dedicated to curating and showcasing music that resonates with powerful social and environmental messages. In a world filled with noise, I aim to amplify the voices of artists who use their talents to inspire change, raise awareness, and challenge the status quo.
 
 - **Policy Pulse**: An innovative tool designed to demystify complex policies and provide a clear, concise understanding of legislation and its implications. By leveraging advanced language models and real-time data integration, Policy Pulse offers users summarized versions of lengthy policy documents, extracts key points, and provides historical context. Whether you're an NGO, activist, government body, or a concerned citizen, Policy Pulse aims to keep your finger on the pulse of policies that matter.
 
