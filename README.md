@@ -31,7 +31,7 @@ I'm particularly interested in:
 #
 
 
-## 🔥 Current + Recent Projects  
+### 🔥 **Current + Recent Projects:**
 
 - 🎓 **Completing my BS in Psychology at WGU**  
 - ⚛️ **Building a Pokémon battle game in React & JavaScript** *(learning project to master React fundamentals)*  
@@ -52,7 +52,7 @@ I'm particularly interested in:
 <img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
 
 
-## 💬 Passionate about  
+### **💬 Passionate about**
 💡 **Designing intuitive and accessible interfaces**  
 ⚡ **React, GraphQL, and modern front-end tools**  
 🌍 **Social and Environmental Justice**  
