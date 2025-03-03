@@ -47,7 +47,6 @@ I'm particularly interested in:
 
 ---
 
-#
 
 <img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
 
