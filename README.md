@@ -25,9 +25,9 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 
 ## 🔥 Current + Recent Projects
-* Finishing up my BS in Data Analytics at WGU
+* Finishing up my BS in Psychology at WGU
 
-* - **Policy Pulse**: An innovative tool designed to demystify complex policies and provide a clear, concise understanding of legislation and its implications. By leveraging advanced language models and real-time data integration, Policy Pulse offers users summarized versions of lengthy policy documents, extracts key points, and provides historical context. Whether you're an NGO, activist, government body, or a concerned citizen, Policy Pulse aims to keep your finger on the pulse of policies that matter.
+* - **Policy Pulse**: An innovative tool designed to demystify complex policies and provide a clear, concise understanding of legislation and its implications. By leveraging advanced language models and real-time data integration, Policy Pulse offers users summarized versions of lengthy policy documents, extracts key points, and provides historical context. Whether you're an NGO, activist, government body, or concerned citizen, Policy Pulse aims to keep your finger on the pulse of policies that matter.
  
 * - **Songs for Solidarity**: A unique platform dedicated to curating and showcasing music that resonates with powerful social and environmental messages. In a world filled with noise, I aim to amplify the voices of artists who use their talents to inspire change, raise awareness, and challenge the status quo.
 
@@ -56,7 +56,26 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 
 ### ⭐️ Current Tech Stack
 
-<img src="https://img.shields.io/badge/Python-0b0b0a?logo=python&logoColor=b63a65" alt="Python logo" title="Python" height="25" /><img src="https://img.shields.io/badge/PostgreSQL-0b0b0a?logo=mysql&logoColor=b63a65" alt="PostgreSQL logo" title="PostgreSQL" height="25" /><img src="https://img.shields.io/badge/Flask-0b0b0a?logo=Flask&logoColor=b63a65" alt="Flask logo" title="Flask" height="25" /><img src="https://img.shields.io/badge/Pytest-0b0b0a?logo=Pytest&logoColor=b63a65" alt="Pytest logo" title="Pytest" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=Visual Studio Code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=b63a65" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/AWS-0b0b0a?logo=amazon-aws&logoColor=b63a65" alt="AWS logo" title="AWS" height="25" /><img src="https://img.shields.io/badge/Javascript-0b0b0a?logo=javascript&logoColor=b63a65" alt="Javascript logo" title="Javascript" height="25" /><img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=b63a65" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/HTML-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML logo" title="HTML" height="25" /><img src="https://img.shields.io/badge/CSS-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS logo" title="CSS" height="25" /><img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=GraphQL&logoColor=b63a65" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Jest-0b0b0a?logo=Jest&logoColor=b63a65" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/TensorFlow-0b0b0a?logo=tensorflow&logoColor=b63a65" alt="TensorFlow logo" title="TensorFlow" height="25" /><img src="https://img.shields.io/badge/PyTorch-0b0b0a?logo=pytorch&logoColor=b63a65" alt="PyTorch logo" title="PyTorch" height="25" /><img src="https://img.shields.io/badge/Pandas-0b0b0a?logo=pandas&logoColor=b63a65" alt="Pandas logo" title="Pandas" height="25" /><img src="https://img.shields.io/badge/Numpy-0b0b0a?logo=numpy&logoColor=b63a65" alt="Numpy logo" title="Numpy" height="25" /><img src="https://img.shields.io/badge/Jupyter-0b0b0a?logo=jupyter&logoColor=b63a65" alt="Jupyter logo" title="Jupyter" height="25" /><img src="https://img.shields.io/badge/Tableau-0b0b0a?logo=tableau&logoColor=b63a65" alt="Tableau logo" title="Tableau" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=b63a65" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=b63a65" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=b63a65" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=b63a65" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
+<img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=b63a65" alt="Styled Components logo" title="Styled Components" height="25" />
+<img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=b63a65" alt="GraphQL logo" title="GraphQL" height="25" />
+<img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=b63a65" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=b63a65" alt="Jest logo" title="Jest" height="25" />
+<img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=b63a65" alt="Testing Library logo" title="Testing Library" height="25" />
+<img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=b63a65" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=b63a65" alt="Prettier logo" title="Prettier" height="25" />
+<img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=b63a65" alt="Git logo" title="Git" height="25" />
+<img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=b63a65" alt="GitHub logo" title="GitHub" height="25" />
+<img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=b63a65" alt="Vite logo" title="Vite" height="25" />
+<img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=b63a65" alt="Figma logo" title="Figma" height="25" />
+
 
 
 
