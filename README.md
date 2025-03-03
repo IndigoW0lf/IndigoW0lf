@@ -28,7 +28,7 @@ I'm particularly interested in:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt='GIF' width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura"/>
 
   
-#
+---
 
 
 ### 🔥 **Current + Recent Projects:**
