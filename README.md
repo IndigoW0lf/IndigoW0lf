@@ -14,9 +14,16 @@
 
 ### I'm so glad you're here 
 
-I'm a software engineer fascinated with AI, UX, and storytelling through data visualization, with a flair for innovative solutions and process efficiency. I'm very concerned with the way design performs, the impact it has on your emotions, and how accurate data collection, cleaning, analysis, and presentation can tell important stories that influence people, change lives, and maybe even save the world.
+I'm a **front-end developer** passionate about creating **engaging, accessible, and impactful** user experiences. My focus is on **React, JavaScript, GraphQL, and UI/UX design**, bringing interfaces to life with clean code and intuitive design.  
 
-I'm a passionate advocate for social and environmental justice and the idea of working with or for a company that focuses on affecting change is incredibly appealing.
+I believe software should **tell a story**, evoke emotions, and **empower users**—whether it's through seamless interactions, innovative features, or meaningful visual storytelling.  
+
+I'm particularly interested in:  
+🔹 **Front-end performance and accessibility**  
+🔹 **AI-driven UI/UX**  
+🔹 **Human-computer interaction**  
+🔹 **GraphQL and API design**  
+🔹 **Using tech for social and environmental impact**  
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt='GIF' width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura"/>
 
@@ -24,57 +31,41 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 #
 
 
-## 🔥 Current + Recent Projects
-* Finishing up my BS in Psychology at WGU
+## 🔥 Current + Recent Projects  
 
-* - **Policy Pulse**: An innovative tool designed to demystify complex policies and provide a clear, concise understanding of legislation and its implications. By leveraging advanced language models and real-time data integration, Policy Pulse offers users summarized versions of lengthy policy documents, extracts key points, and provides historical context. Whether you're an NGO, activist, government body, or concerned citizen, Policy Pulse aims to keep your finger on the pulse of policies that matter.
- 
-* - **Songs for Solidarity**: A unique platform dedicated to curating and showcasing music that resonates with powerful social and environmental messages. In a world filled with noise, I aim to amplify the voices of artists who use their talents to inspire change, raise awareness, and challenge the status quo.
+- 🎓 **Completing my BS in Psychology at WGU**  
+- ⚛️ **Building a Pokémon battle game in React & JavaScript** *(learning project to master React fundamentals)*  
+- 🌎 **Exploring UI/UX in AI-driven interfaces**  
+- 🚀 **Expanding my skills with TypeScript and Next.js** 
 
 
+### **Past Projects:**  
+- **[OutdatedEducator](https://github.com/IndigoW0lf/OutdatedEducator)**: API project using OpenAI for educational content assessment  
+- **[Policy Pulse](https://github.com/IndigoW0lf/PolicyPulse)**: A tool leveraging AI to simplify policy and legislation  
+- **[Songs for Solidarity](https://github.com/IndigoW0lf/SongsForSolidarity)**: A curated music platform for social impact  
+- **[Storytime Reading Tracker](https://github.com/IndigoW0lf/Storytime_Reading_Tracker)**: A React-based reading progress tracker  
 
-- **[OutdatedEducator](https://github.com/IndigoW0lf/OutdatedEducator)**: An API practice project with OpenAI.
-  
-- **[IMDb Chatbot](https://github.com/IndigoW0lf/IMDb_Chatbot)**: A Machine Learning Jupyter project that serves as a chatbot for IMDb.
-  
-- **[Storytime Reading Tracker](https://github.com/IndigoW0lf/Storytime_Reading_Tracker)**: A tool to keep track of your reading progress and stories.
+---
 
 #
 
 <img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
 
 
-## 💬 Passionate about
-* Self-awareness, inquiry, and growth
-* Social and Environmental Justice
-* Permaculture + Soil Science
-* Houseplants
-* Singing :)
-* Social Good Organizations
-* AI/ML applications and ethics
+## 💬 Passionate about  
+💡 **Designing intuitive and accessible interfaces**  
+⚡ **React, GraphQL, and modern front-end tools**  
+🌍 **Social and Environmental Justice**  
+🌱 **Permaculture + Soil Science**  
+🎤 **Music, singing, and creative storytelling**  
+🤖 **The ethical intersection of AI & UX**  
+
+Let's build something amazing together! 🚀 
 
 
 ### ⭐️ Current Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=b63a65" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=b63a65" alt="Next.js logo" title="Next.js" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=b63a65" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=b63a65" alt="TailwindCSS logo" title="TailwindCSS" height="25" />
-<img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=b63a65" alt="Styled Components logo" title="Styled Components" height="25" />
-<img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=b63a65" alt="GraphQL logo" title="GraphQL" height="25" />
-<img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=b63a65" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=b63a65" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=b63a65" alt="Testing Library logo" title="Testing Library" height="25" />
-<img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=b63a65" alt="ESLint logo" title="ESLint" height="25" />
-<img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=b63a65" alt="Prettier logo" title="Prettier" height="25" />
-<img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=b63a65" alt="Git logo" title="Git" height="25" />
-<img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=b63a65" alt="GitHub logo" title="GitHub" height="25" />
-<img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=b63a65" alt="Vite logo" title="Vite" height="25" />
-<img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=b63a65" alt="Figma logo" title="Figma" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=b63a65" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=b63a65" alt="Next.js logo" title="Next.js" height="25" /><img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=b63a65" alt="TypeScript logo" title="TypeScript" height="25" /><img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=b63a65" alt="TailwindCSS logo" title="TailwindCSS" height="25" /><img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=b63a65" alt="Styled Components logo" title="Styled Components" height="25" /><img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=b63a65" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=b63a65" alt="Redux logo" title="Redux" height="25" /><img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=b63a65" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=b63a65" alt="Testing Library logo" title="Testing Library" height="25" /><img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=b63a65" alt="ESLint logo" title="ESLint" height="25" /><img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=b63a65" alt="Prettier logo" title="Prettier" height="25" /><img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=b63a65" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=b63a65" alt="GitHub logo" title="GitHub" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=b63a65" alt="Vite logo" title="Vite" height="25" /><img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=b63a65" alt="Figma logo" title="Figma" height="25" />
 
 
 
