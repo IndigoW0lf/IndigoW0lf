@@ -48,7 +48,7 @@ I'm particularly interested in:
 ---
 
 
-<img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
+<img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="auto"/>  
 
 
 ### **💬 Passionate about**
@@ -67,6 +67,34 @@ Let's build something amazing together! 🚀
 <img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=b63a65" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=b63a65" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=b63a65" alt="Next.js logo" title="Next.js" height="25" /><img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=b63a65" alt="TypeScript logo" title="TypeScript" height="25" /><img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=b63a65" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=b63a65" alt="TailwindCSS logo" title="TailwindCSS" height="25" /><img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=b63a65" alt="Styled Components logo" title="Styled Components" height="25" /><img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=b63a65" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=b63a65" alt="Redux logo" title="Redux" height="25" /><img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=b63a65" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=b63a65" alt="Testing Library logo" title="Testing Library" height="25" /><img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=b63a65" alt="ESLint logo" title="ESLint" height="25" /><img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=b63a65" alt="Prettier logo" title="Prettier" height="25" /><img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=b63a65" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=b63a65" alt="GitHub logo" title="GitHub" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=b63a65" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=b63a65" alt="Vite logo" title="Vite" height="25" /><img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=b63a65" alt="Figma logo" title="Figma" height="25" />
 
 
+### 🧰 Dev Tools I Can't Live Without:
+These aren't just tools — they're my digital coven 🧙‍♀️  
+- 🧠 **Cursor**: My AI coding familiar and thought partner  
+- 🧼 **Prettier & ESLint**: Because messy code = messy energy  
+- 🐙 **GitHub**: For wrangling commits, chaos, and collaboration  
+- 🌐 **Chrome DevTools**: For breaking and unbreaking the universe  
+- 🔥 **Figma**: Where design dreams begin (and get obsessed over)
+
+---
+
+### 🐾 My Work Vibes
+Because productivity isn't just tasks — it's a *mood*.  
+- 🎶 Reggae rock + mysterious-but-effective Spotify *Focus* playlist  
+- 💡 Soft pink lighting and calming plants  
+- 🐈🐈🐈 Three (yes, three) cats keeping me supervised  
+- 🧃 Oat milk chai or strong coffee (depending on the mission)  
+- ✨ Coding in flow state = chef’s kiss
+
+---
+
+### 🌟 Developer Philosophy
+> _“Code like a poet, test like a skeptic, debug like a cryptid.”_
+
+I believe:
+- Good UX is empathy in action  
+- Accessibility isn't optional — it's a human right  
+- Magic happens where design and dev collaborate  
+- Git commit messages should be readable *and* a little sassy 😎
 
 
     
