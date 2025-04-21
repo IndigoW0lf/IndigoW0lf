@@ -1,4 +1,4 @@
-# 🐺 I'm Kai Indigo Wolf  ![](https://visitor-badge.glitch.me/badge?page_id=indigow0lf.indigow0lf)
+# 🐺 I'm Kai Indigo Wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ff69b4)
 
 <a href="https://www.linkedin.com/in/indigowolf/">
   <img align="left" alt="Kai Indigo's LinkedIN" width="22px" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/4e996e3d931144b95b22f8ffcb5a70807d538af3/linkedin-svgrepo-com%20(1).svg"/>
