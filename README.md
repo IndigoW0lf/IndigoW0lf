@@ -12,50 +12,41 @@
 </a>
   <br>
 
-<table>
-  <tr>
-    <!-- LEFT SIDE: TEXT CONTENT -->
-    <td width="55%" valign="top">
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="450" height="270" alt="Kai's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4"/>
+</a>
 
-      ### I'm so glad you're here
+### I'm so glad you're here
 
-      I'm a **front-end developer** passionate about creating **engaging, accessible, and impactful** user experiences.  
-      My focus is on **React, JavaScript, GraphQL, and UI/UX design**, bringing interfaces to life with clean code and intuitive design.  
+I'm a **front-end developer** passionate about creating **engaging, accessible, and impactful** user experiences.  
+My focus is on **React, JavaScript, GraphQL, and UI/UX design**, bringing interfaces to life with clean code and intuitive design.  
 
-      I believe software should **tell a story**, evoke emotions, and **empower users**—whether it's through seamless interactions, innovative features, or meaningful visual storytelling.
+I believe software should **tell a story**, evoke emotions, and **empower users**—whether it's through seamless interactions, innovative features, or meaningful visual storytelling.
 
-      I'm particularly interested in:  
-      🔹 **Front-end performance and accessibility**  
-      🔹 **AI-driven UI/UX**  
-      🔹 **Human-computer interaction**  
-      🔹 **GraphQL and API design**  
-      🔹 **Using tech for social and environmental impact**  
+I'm particularly interested in:  
+🔹 **Front-end performance and accessibility**  
+🔹 **AI-driven UI/UX**  
+🔹 **Human-computer interaction**  
+🔹 **GraphQL and API design**  
+🔹 **Using tech for social and environmental impact**  
 
-    </td>
-
-    <!-- RIGHT SIDE: STATS & LANGUAGES -->
-    <td width="45%" valign="top" align="right">
-
-      <img width="390px" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" />
-
-      <br/><br/>
-
-      <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&layout=compact&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff" />
-
-    </td>
-  </tr>
-</table>
 
 ---
 <div align="center">✦ ✧ ✦</div>
 
 ---
 
+<!-- Languages card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&layout=compact&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff"/>
+</a>
 
 ### 🔥 **Current + Recent Projects:**
 
 - 🎓 **Completing my BS in Psychology at WGU**  
-- ⚛️ **Building a Pokémon battle game in React & JavaScript** *(learning project to master React fundamentals)*  
+- ⚛️ **Building a game called 'Forgotten Keeper'** 
 - 🌎 **Exploring UI/UX in AI-driven interfaces**  
 - 🚀 **Expanding my skills with TypeScript and Next.js** 
 
