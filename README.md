@@ -20,7 +20,7 @@
 
 ### I'm so glad you're here
 
-I'm a **front-end developer** passionate about creating **engaging, accessible, and impactful** user experiences.  
+I'm a **front-end developer** by day and a full-stack entrepreneur by night, passionate about creating **engaging, accessible, and impactful** user experiences.  
 My focus is on **React, JavaScript, GraphQL, and UI/UX design**, bringing interfaces to life with clean code and intuitive design.  
 
 I believe software should **tell a story**, evoke emotions, and **empower users**—whether it's through seamless interactions, innovative features, or meaningful visual storytelling.
@@ -45,10 +45,9 @@ I'm particularly interested in:
 
 ### 🔥 **Current + Recent Projects:**
 
-- 🎓 **Completing my BS in Psychology at WGU**  
-- ⚛️ **Building a game called 'Forgotten Keeper'** 
+- ⚛️ **Building a company that speaks to my soul and wakes me up in the morning** 
 - 🌎 **Exploring UI/UX in AI-driven interfaces**  
-- 🚀 **Expanding my skills with TypeScript and Next.js** 
+- 🚀 **Expanding my skills with TypeScript and React** 
 
 
 ### **Past Projects:**  
