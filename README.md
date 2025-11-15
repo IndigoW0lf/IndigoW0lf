@@ -81,13 +81,14 @@ Let's build something amazing together! 🚀
 <img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=ff69b4" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=ff69b4" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=ff69b4" alt="Next.js logo" title="Next.js" height="25" /><img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=ff69b4" alt="TypeScript logo" title="TypeScript" height="25" /><img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=ff69b4" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=ff69b4" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=ff69b4" alt="TailwindCSS logo" title="TailwindCSS" height="25" /><img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=ff69b4" alt="Styled Components logo" title="Styled Components" height="25" /><img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=ff69b4" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=ff69b4" alt="Redux logo" title="Redux" height="25" /><img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=ff69b4" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=ff69b4" alt="Testing Library logo" title="Testing Library" height="25" /><img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=ff69b4" alt="ESLint logo" title="ESLint" height="25" /><img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=ff69b4" alt="Prettier logo" title="Prettier" height="25" /><img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=ff69b4" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=ff69b4" alt="GitHub logo" title="GitHub" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=ff69b4" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=ff69b4" alt="Vite logo" title="Vite" height="25" /><img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=ff69b4" alt="Figma logo" title="Figma" height="25" />
 
 
-### 🧰 Dev Tools I Can't Live Without:
-These aren't just tools — they're my digital coven 🧙‍♀️  
+### 🧰 Software I Can't Live Without:
+My digital coven and playthings 🧙‍♀️  
 - 🧠 **Cursor**: My AI coding familiar and thought partner  
-- 🧼 **Prettier & ESLint**: Because messy code = messy energy  
-- 🐙 **GitHub**: For wrangling commits, chaos, and collaboration  
-- 🌐 **Chrome DevTools**: For breaking and unbreaking the universe  
+- 🧼 **Prusa Slicer**:  Creating tangible things from the depths of my mind
+- 🐙 **Unity**: Bringing my virtual ideas into existence  
+- 🌐 **XTool Studio**: So I can cut and carve my mark on this world  
 - 🔥 **Figma**: Where design dreams begin (and get obsessed over)
+- 💡 **Trello & Jira**: My organizational duo, keepers of my Creative and Builder wolves <3
 
 ---
 <div align="center">✦ ✧ ✦</div>
@@ -96,9 +97,9 @@ These aren't just tools — they're my digital coven 🧙‍♀️
 
 
 ### 🐾 My Work Vibes
-Because productivity isn't just tasks — it's a *mood*.  
+Because productivity is a *mood*.  
 - 🎶 Reggae rock + mysterious-but-effective Spotify *Focus* playlist  
-- 💡 Soft pink lighting and calming plants  
+- 💡 Soft aesthetic lighting and calming plants, cozy blankets and fresh air  
 - 🐈🐈🐈 Three (yes, three) cats keeping me supervised  
 - 🧃 Oat milk chai or strong coffee (depending on the mission)  
 - ✨ Coding in flow state = chef’s kiss
