@@ -25,7 +25,7 @@ I'm particularly interested in:
 🔹 **GraphQL and API design**  
 🔹 **Using tech for social and environmental impact**  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt='GIF' width="450" height="270" src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&theme=aura"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="./profile/stats.svg"/>
 
   
 ---

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="195" viewBox="0 0 500 195">
+  <rect width="500" height="195" fill="#1a1b27" rx="4.5"/>
+  <text x="250" y="100" fill="#c0caf5" font-family="sans-serif" font-size="14" text-anchor="middle">Stats card will appear after the first workflow run.</text>
+  <text x="250" y="120" fill="#565f89" font-family="sans-serif" font-size="12" text-anchor="middle">Actions ’ Update README cards ’ Run workflow</text>
+</svg>
