@@ -12,12 +12,6 @@
 </a>
   <br>
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="450" height="270" alt="Kai's GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=indigow0lf&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4"/>
-</a>
-
 ### I'm so glad you're here
 
 I'm a **front-end developer** by day and a full-stack entrepreneur by night, passionate about creating **engaging, accessible, and impactful** user experiences.  
@@ -32,7 +26,7 @@ I'm particularly interested in:
 🔹 **GraphQL and API design**  
 🔹 **Using tech for social and environmental impact**  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="./profile/stats.svg"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg"/>
 
 ---
 <div align="center">✦ ✧ ✦</div>
