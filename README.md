@@ -1,12 +1,10 @@
-# <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" style="vertical-align: -3px" /> hi, i'm kai indigo wolf
+# <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" style="vertical-align: -3px" /> hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1)
 
 <p align="right">
   <a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="20" alt="LinkedIn" style="vertical-align: -3px" /></a>
   <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="20" alt="Spotify" style="vertical-align: -3px" /></a>
   <a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="20" alt="Instagram" style="vertical-align: -3px" /></a>
   <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/link.svg" width="20" height="20" alt="DevPost" style="vertical-align: -3px" /></a>
-  &nbsp;
-  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1)
 </p>
 
 <div align="center">
