@@ -132,7 +132,7 @@
           y="0"
           width="217.46"
           height="8"
-          fill="#3572A5"
+          fill="#9dd9d6"
         />
       
         <rect
@@ -142,7 +142,7 @@
           y="0"
           width="19.13"
           height="8"
-          fill="#e34c26"
+          fill="#f8b4d9"
         />
       
         <rect
@@ -152,7 +152,7 @@
           y="0"
           width="16.94"
           height="8"
-          fill="#3178c6"
+          fill="#b8a9c9"
         />
       
         <rect
@@ -162,7 +162,7 @@
           y="0"
           width="13.53"
           height="8"
-          fill="#f1e05a"
+          fill="#e8d5e7"
         />
       
         <rect
@@ -172,7 +172,7 @@
           y="0"
           width="11.86"
           height="8"
-          fill="#555555"
+          fill="#c9b8d4"
         />
       
         <rect
@@ -182,49 +182,49 @@
           y="0"
           width="11.08"
           height="8"
-          fill="#663399"
+          fill="#d4a5d9"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#9dd9d6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 86.99%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#f8b4d9" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 7.65%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#b8a9c9" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 2.77%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#e8d5e7" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JavaScript 1.41%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <circle cx="5" cy="6" r="5" fill="#c9b8d4" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C 0.74%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#d4a5d9" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 0.43%
       </text>

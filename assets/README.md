@@ -15,3 +15,4 @@ Use in README: `https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/ass
 | Light pink     | `#ffb6c1` |
 | Baby teal (stats icons) | `#9dd9d6` |
 | Light purple (stats ring) | `#b8a9c9` |
+| Top-langs bar colors (pastel galaxy) | bars/circles: `#9dd9d6`, `#f8b4d9`, `#b8a9c9`, `#e8d5e7`, `#c9b8d4`, `#d4a5d9` (applied in workflow after generate) |

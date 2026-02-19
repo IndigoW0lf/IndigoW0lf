@@ -1,5 +1,13 @@
-| # <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" style="vertical-align: -3px" /> hi, i'm kai indigo wolf | <a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="20" alt="LinkedIn" style="vertical-align: -3px" /></a> <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="20" alt="Spotify" style="vertical-align: -3px" /></a> <a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="20" alt="Instagram" style="vertical-align: -3px" /></a> <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/link.svg" width="20" height="20" alt="DevPost" style="vertical-align: -3px" /></a> ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1) |
-| --- | ---: |
+# <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" style="vertical-align: -3px" /> hi, i'm kai indigo wolf
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="20" alt="LinkedIn" style="vertical-align: -3px" /></a>
+  <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="20" alt="Spotify" style="vertical-align: -3px" /></a>
+  <a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="20" alt="Instagram" style="vertical-align: -3px" /></a>
+  <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/link.svg" width="20" height="20" alt="DevPost" style="vertical-align: -3px" /></a>
+  &nbsp;
+  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1)
+</p>
 
 <div align="center">
 
@@ -35,16 +43,10 @@ systems that support people instead of overwhelming them.
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg"/>
 
 ---
-<div align="center">✦ ✧ ✦</div>
-
----
-
-<!-- Languages card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/>
-</a>
 
 ### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flame.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> current explorations
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/></a>
 
 - growing a body of work that feels aligned and sustainable
 - designing AI-driven interfaces that feel intuitive rather than intrusive

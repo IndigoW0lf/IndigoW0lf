@@ -29,6 +29,13 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Apply pastel galaxy colors to top-langs (replace default lang bar colors)
+        run: |
+          F=profile/top-langs.svg
+          sed -i 's/#3572A5/#9dd9d6/g; s/#e34c26/#f8b4d9/g; s/#3178c6/#b8a9c9/g; s/#f1e05a/#e8d5e7/g; s/#555555/#c9b8d4/g; s/#663399/#d4a5d9/g' "$F"
+          # Common extras if present
+          sed -i 's/#3776AB/#9dd9d6/g; s/#563d7c/#d4a5d9/g; s/#F7DF1E/#e8d5e7/g' "$F" 2>/dev/null || true
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
