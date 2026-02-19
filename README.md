@@ -1,30 +1,43 @@
-# 🐺 I'm Kai Indigo Wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ff69b4)
+# <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" /> hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1)
 
 <a href="https://www.linkedin.com/in/indigowolf/">
-  <img align="left" alt="Kai Indigo's LinkedIN" width="22px" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/4e996e3d931144b95b22f8ffcb5a70807d538af3/linkedin-svgrepo-com%20(1).svg"/>
+  <img align="left" alt="Kai Indigo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/linkedin.svg"/>
 </a><a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg">
-  <img align="left" alt="Kai Indigo's Spotify" width="22px" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/20c6f5cb222f0daefe7ad38bc61f0266db44535c/3D-spotify-logo-premium-PNG.png" />
+  <img align="left" alt="Kai Indigo's Spotify" width="22px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/spotify.png"/>
 </a>
 <a href="https://www.instagram.com/indigow0lf/">
-  <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a><a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-  <img align="left" alt="Kai Indigo's DevPost" width="70px"src="https://github.com/IndigoW0lf/IndigoW0lf/blob/28ed449d1dea368da01f918ac9d2880c31c76fb2/Devpost_Icon.png" />
+  <img align="left" alt="Kai Indigo's DevPost" width="70px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/devpost.png"/>
 </a>
   <br>
 
-### I'm so glad you're here
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=front-end+engineer+%7C+React+%26+TypeScript;building+intentional+things&color=ffb6c1&center=true&width=500)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I'm a **front-end developer** by day and a full-stack entrepreneur by night, passionate about creating **engaging, accessible, and impactful** user experiences.  
-My focus is on **React, JavaScript, GraphQL, and UI/UX design**, bringing interfaces to life with clean code and intuitive design.  
+welcome — i'm really glad you're here <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" />
 
-I believe software should **tell a story**, evoke emotions, and **empower users**—whether it's through seamless interactions, innovative features, or meaningful visual storytelling.
+i'm a front-end engineer by day and a builder of intentional things by night. i work mostly in React, TypeScript, and GraphQL, shaping interfaces that feel calm, intuitive, and alive.
 
-I'm particularly interested in:  
-🔹 **Front-end performance and accessibility**  
-🔹 **AI-driven UI/UX**  
-🔹 **Human-computer interaction**  
-🔹 **GraphQL and API design**  
-🔹 **Using tech for social and environmental impact**  
+i care about rhythm in systems — how a product flows, how a user moves through it, how the architecture underneath supports that movement without demanding attention.
+
+software shouldn't just function.  
+it should feel like it's in conversation with you.
+
+fast. accessible. thoughtful.  
+no friction. no noise. no unnecessary ornament.
+
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/moon.svg" width="18" height="18" alt="" /> what pulls me forward
+
+i'm especially drawn to:
+
+- high-performance, accessible front-ends
+- AI that enhances human agency
+- human-computer interaction rooted in empathy
+- clean, well-shaped APIs and GraphQL schemas
+- technology that nurtures social and environmental good
+
+i want to build tools that feel intentional — not extractive.  
+systems that support people instead of overwhelming them.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg"/>
 
@@ -38,52 +51,20 @@ I'm particularly interested in:
   <img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/>
 </a>
 
-### 🔥 **Current + Recent Projects:**
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flame.svg" width="18" height="18" alt="" /> current explorations
 
-- ⚛️ **Building a company that speaks to my soul and wakes me up in the morning** 
-- 🌎 **Exploring UI/UX in AI-driven interfaces**  
-- 🚀 **Expanding my skills with TypeScript and React** 
+- growing a body of work that feels aligned and sustainable
+- designing AI-driven interfaces that feel intuitive rather than intrusive
+- deepening my TypeScript and modern React practice
 
+**past builds**
 
-### **Past Projects:**  
-- **[OutdatedEducator](https://github.com/IndigoW0lf/OutdatedEducator)**: API project using OpenAI for educational content assessment  
-- **[Policy Pulse](https://github.com/IndigoW0lf/PolicyPulse)**: A tool leveraging AI to simplify policy and legislation  
-- **[Songs for Solidarity](https://github.com/IndigoW0lf/SongsForSolidarity)**: A curated music platform for social impact  
-- **[Storytime Reading Tracker](https://github.com/IndigoW0lf/Storytime_Reading_Tracker)**: A React-based reading progress tracker  
+- [OutdatedEducator](https://github.com/IndigoW0lf/OutdatedEducator) — API project evaluating educational content
+- [Policy Pulse](https://github.com/IndigoW0lf/PolicyPulse) — simplifying legislation through AI
+- [Songs for Solidarity](https://github.com/IndigoW0lf/SongsForSolidarity) — curated music for social impact
+- [Storytime Reading Tracker](https://github.com/IndigoW0lf/Storytime_Reading_Tracker) — a cozy React app for tracking reading progress
 
----
-<div align="center">✦ ✧ ✦</div>
-
----
-
-
-<img align="right" alt="Avatar" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="auto"/>  
-
-
-### **💬 Passionate about**
-💡 **Designing intuitive and accessible interfaces**  
-⚡ **React, GraphQL, and modern front-end tools**  
-🌍 **Social and Environmental Justice**  
-🌱 **Permaculture + Soil Science**  
-🎤 **Music, singing, and creative storytelling**  
-🤖 **The ethical intersection of AI & UX**  
-
-Let's build something amazing together! 🚀 
-
-
-### ⭐️ Current Tech Stack
-
-<img src="https://img.shields.io/badge/JavaScript-0b0b0a?logo=javascript&logoColor=ff69b4" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/React-0b0b0a?logo=react&logoColor=ff69b4" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/Next.js-0b0b0a?logo=next.js&logoColor=ff69b4" alt="Next.js logo" title="Next.js" height="25" /><img src="https://img.shields.io/badge/TypeScript-0b0b0a?logo=typescript&logoColor=ff69b4" alt="TypeScript logo" title="TypeScript" height="25" /><img src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=ff69b4" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-0b0b0a?logo=css3&logoColor=ff69b4" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/TailwindCSS-0b0b0a?logo=tailwind-css&logoColor=ff69b4" alt="TailwindCSS logo" title="TailwindCSS" height="25" /><img src="https://img.shields.io/badge/StyledComponents-0b0b0a?logo=styled-components&logoColor=ff69b4" alt="Styled Components logo" title="Styled Components" height="25" /><img src="https://img.shields.io/badge/GraphQL-0b0b0a?logo=graphql&logoColor=ff69b4" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Redux-0b0b0a?logo=redux&logoColor=ff69b4" alt="Redux logo" title="Redux" height="25" /><img src="https://img.shields.io/badge/Jest-0b0b0a?logo=jest&logoColor=ff69b4" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/Testing Library-0b0b0a?logo=testing-library&logoColor=ff69b4" alt="Testing Library logo" title="Testing Library" height="25" /><img src="https://img.shields.io/badge/ESLint-0b0b0a?logo=eslint&logoColor=ff69b4" alt="ESLint logo" title="ESLint" height="25" /><img src="https://img.shields.io/badge/Prettier-0b0b0a?logo=prettier&logoColor=ff69b4" alt="Prettier logo" title="Prettier" height="25" /><img src="https://img.shields.io/badge/Git-0b0b0a?logo=git&logoColor=ff69b4" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/GitHub-0b0b0a?logo=github&logoColor=ff69b4" alt="GitHub logo" title="GitHub" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-0b0b0a?logo=visual-studio-code&logoColor=ff69b4" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Vite-0b0b0a?logo=vite&logoColor=ff69b4" alt="Vite logo" title="Vite" height="25" /><img src="https://img.shields.io/badge/Figma-0b0b0a?logo=figma&logoColor=ff69b4" alt="Figma logo" title="Figma" height="25" />
-
-
-### 🧰 Software I Can't Live Without:
-My digital coven and playthings 🧙‍♀️  
-- 🧠 **Cursor**: My AI coding familiar and thought partner  
-- 🧼 **Prusa Slicer**:  Creating tangible things from the depths of my mind
-- 🐙 **Unity**: Bringing my virtual ideas into existence  
-- 🌐 **XTool Studio**: So I can cut and carve my mark on this world  
-- 🔥 **Figma**: Where design dreams begin (and get obsessed over)
-- 💡 **Trello & Jira**: My organizational duo, keepers of my Creative and Builder wolves <3
+each project has been a small ritual: research, build, refine, release.
 
 ---
 <div align="center">✦ ✧ ✦</div>
@@ -91,13 +72,37 @@ My digital coven and playthings 🧙‍♀️
 ---
 
 
-### 🐾 My Work Vibes
-Because productivity is a *mood*.  
-- 🎶 Reggae rock + mysterious-but-effective Spotify *Focus* playlist  
-- 💡 Soft aesthetic lighting and calming plants, cozy blankets and fresh air  
-- 🐈🐈🐈 Three (yes, three) cats keeping me supervised  
-- 🧃 Oat milk chai or strong coffee (depending on the mission)  
-- ✨ Coding in flow state = chef’s kiss
+<img align="right" alt="Avatar" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/avatar.png" width="450" height="auto"/>  
+
+
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" /> things that matter to me
+
+- accessible, human-centered design
+- modern front-end craft
+- social & environmental justice
+- permaculture + soil science
+- music, storytelling, and shared narrative
+- the ethical intersection of AI & UX
+
+i think about cycles — seasons in life, seasons in products.  
+growth, pruning, rebuilding.  
+good systems honor that rhythm.
+
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg" width="18" height="18" alt="" /> stack
+
+JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Components · Redux · Jest · Testing Library · Git · Vite · Figma
+
+<img src="https://img.shields.io/badge/JavaScript-1a0a2e?logo=javascript&logoColor=f8b4d9" alt="JavaScript logo" title="JavaScript" height="25" /><img src="https://img.shields.io/badge/React-1a0a2e?logo=react&logoColor=f8b4d9" alt="React logo" title="React" height="25" /><img src="https://img.shields.io/badge/Next.js-1a0a2e?logo=next.js&logoColor=f8b4d9" alt="Next.js logo" title="Next.js" height="25" /><img src="https://img.shields.io/badge/TypeScript-1a0a2e?logo=typescript&logoColor=f8b4d9" alt="TypeScript logo" title="TypeScript" height="25" /><img src="https://img.shields.io/badge/HTML5-1a0a2e?logo=html5&logoColor=f8b4d9" alt="HTML5 logo" title="HTML5" height="25" /><img src="https://img.shields.io/badge/CSS3-1a0a2e?logo=css3&logoColor=f8b4d9" alt="CSS3 logo" title="CSS3" height="25" /><img src="https://img.shields.io/badge/TailwindCSS-1a0a2e?logo=tailwind-css&logoColor=f8b4d9" alt="TailwindCSS logo" title="TailwindCSS" height="25" /><img src="https://img.shields.io/badge/StyledComponents-1a0a2e?logo=styled-components&logoColor=f8b4d9" alt="Styled Components logo" title="Styled Components" height="25" /><img src="https://img.shields.io/badge/GraphQL-1a0a2e?logo=graphql&logoColor=f8b4d9" alt="GraphQL logo" title="GraphQL" height="25" /><img src="https://img.shields.io/badge/Redux-1a0a2e?logo=redux&logoColor=f8b4d9" alt="Redux logo" title="Redux" height="25" /><img src="https://img.shields.io/badge/Jest-1a0a2e?logo=jest&logoColor=f8b4d9" alt="Jest logo" title="Jest" height="25" /><img src="https://img.shields.io/badge/Testing Library-1a0a2e?logo=testing-library&logoColor=f8b4d9" alt="Testing Library logo" title="Testing Library" height="25" /><img src="https://img.shields.io/badge/ESLint-1a0a2e?logo=eslint&logoColor=f8b4d9" alt="ESLint logo" title="ESLint" height="25" /><img src="https://img.shields.io/badge/Prettier-1a0a2e?logo=prettier&logoColor=f8b4d9" alt="Prettier logo" title="Prettier" height="25" /><img src="https://img.shields.io/badge/Git-1a0a2e?logo=git&logoColor=f8b4d9" alt="Git logo" title="Git" height="25" /><img src="https://img.shields.io/badge/GitHub-1a0a2e?logo=github&logoColor=f8b4d9" alt="GitHub logo" title="GitHub" height="25" /><img src="https://img.shields.io/badge/Visual Studio Code-1a0a2e?logo=visual-studio-code&logoColor=f8b4d9" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /><img src="https://img.shields.io/badge/Vite-1a0a2e?logo=vite&logoColor=f8b4d9" alt="Vite logo" title="Vite" height="25" /><img src="https://img.shields.io/badge/Figma-1a0a2e?logo=figma&logoColor=f8b4d9" alt="Figma logo" title="Figma" height="25" />
+
+and whatever tools the next experiment calls for.
+
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/wrench.svg" width="18" height="18" alt="" /> tools in my orbit
+
+- **Cursor** (a thinking companion)
+- **Figma** (where form begins to whisper)
+- **Unity** (for world-building experiments)
+- **XTool Studio** (digital ideas made tangible)
+- **Trello + Jira** (rituals of order in creative chaos)
 
 ---
 <div align="center">✦ ✧ ✦</div>
@@ -105,21 +110,28 @@ Because productivity is a *mood*.
 ---
 
 
-### 🌟 Developer Philosophy
-> _“Code like a poet, test like a skeptic, debug like a cryptid.”_
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="18" height="18" alt="" /> work atmosphere
+plants everywhere. natural light. soft lamps.  
+reggae rock or deep-focus playlists.  
+three cats acting as silent QA.  
+coffee or oat milk chai, depending on the sprint.
 
-I believe:
-- Good UX is empathy in action  
-- Accessibility isn't optional — it's a human right  
-- Magic happens where design and dev collaborate  
-- Git commit messages should be readable *and* a little sassy 😎
+flow state feels like meditation with a keyboard.
 
+---
+<div align="center">✦ ✧ ✦</div>
 
-    
-  
-</a><br>
-  
- 
+---
 
 
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/eye.svg" width="18" height="18" alt="" /> philosophy
+
+- good UX is empathy practiced consistently.
+- accessibility is a baseline, not a feature.
+- design and development are part of the same spell.
+- systems should be elegant, not performative.
+
+build with intention.  
+refactor with care.  
+leave the forest healthier than you found it.
 
