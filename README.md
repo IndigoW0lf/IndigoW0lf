@@ -22,6 +22,8 @@ i care about rhythm in systems — how a product flows, how a user moves through
 software shouldn't just function.  
 it should feel like it's in conversation with you.
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg"/>
+
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
 
@@ -38,7 +40,7 @@ i'm especially drawn to:
 i want to build tools that feel intentional — not extractive.  
 systems that support people instead of overwhelming them.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg"/>
+
 
 ---
 
