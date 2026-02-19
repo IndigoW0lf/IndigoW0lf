@@ -1,20 +1,13 @@
-# <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" /> hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1)
+| # <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="20" height="20" alt="" style="vertical-align: -3px" /> hi, i'm kai indigo wolf | <a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="20" alt="LinkedIn" style="vertical-align: -3px" /></a> <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="20" alt="Spotify" style="vertical-align: -3px" /></a> <a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="20" alt="Instagram" style="vertical-align: -3px" /></a> <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/link.svg" width="20" height="20" alt="DevPost" style="vertical-align: -3px" /></a> ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&color=ffb6c1) |
+| --- | ---: |
 
-<a href="https://www.linkedin.com/in/indigowolf/">
-  <img align="left" alt="Kai Indigo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/linkedin.svg"/>
-</a><a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg">
-  <img align="left" alt="Kai Indigo's Spotify" width="22px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/spotify.png"/>
-</a>
-<a href="https://www.instagram.com/indigow0lf/">
-  <img align="left" alt="Kai Indigo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-</a><a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-  <img align="left" alt="Kai Indigo's DevPost" width="70px" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/devpost.png"/>
-</a>
-  <br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=front-end+engineer+%7C+React+%26+TypeScript;building+intentional+things&color=ffb6c1&center=true&width=500)](https://github.com/DenverCoder1/readme-typing-svg)
 
-welcome — i'm really glad you're here <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" />
+</div>
+
+welcome — i'm really glad you're here <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" style="vertical-align: -3px" />
 
 i'm a front-end engineer by day and a builder of intentional things by night. i work mostly in React, TypeScript, and GraphQL, shaping interfaces that feel calm, intuitive, and alive.
 
@@ -26,7 +19,7 @@ it should feel like it's in conversation with you.
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/moon.svg" width="18" height="18" alt="" /> what pulls me forward
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/moon.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> what pulls me forward
 
 i'm especially drawn to:
 
@@ -51,7 +44,7 @@ systems that support people instead of overwhelming them.
   <img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/>
 </a>
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flame.svg" width="18" height="18" alt="" /> current explorations
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flame.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> current explorations
 
 - growing a body of work that feels aligned and sustainable
 - designing AI-driven interfaces that feel intuitive rather than intrusive
@@ -75,7 +68,7 @@ each project has been a small ritual: research, build, refine, release.
 <img align="right" alt="Avatar" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/avatar.png" width="450" height="auto"/>  
 
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" /> things that matter to me
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> things that matter to me
 
 - accessible, human-centered design
 - modern front-end craft
@@ -88,7 +81,7 @@ i think about cycles — seasons in life, seasons in products.
 growth, pruning, rebuilding.  
 good systems honor that rhythm.
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg" width="18" height="18" alt="" /> stack
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> stack
 
 JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Components · Redux · Jest · Testing Library · Git · Vite · Figma
 
@@ -96,7 +89,7 @@ JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Co
 
 and whatever tools the next experiment calls for.
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/wrench.svg" width="18" height="18" alt="" /> tools in my orbit
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/wrench.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> tools in my orbit
 
 - **Cursor** (a thinking companion)
 - **Figma** (where form begins to whisper)
@@ -110,7 +103,7 @@ and whatever tools the next experiment calls for.
 ---
 
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="18" height="18" alt="" /> work atmosphere
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> work atmosphere
 plants everywhere. natural light. soft lamps.  
 reggae rock or deep-focus playlists.  
 three cats acting as silent QA.  
@@ -124,7 +117,7 @@ flow state feels like meditation with a keyboard.
 ---
 
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/eye.svg" width="18" height="18" alt="" /> philosophy
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/eye.svg" width="18" height="18" alt="" style="vertical-align: -3px" /> philosophy
 
 - good UX is empathy practiced consistently.
 - accessibility is a baseline, not a feature.
@@ -133,5 +126,5 @@ flow state feels like meditation with a keyboard.
 
 build with intention.  
 refactor with care.  
-leave the forest healthier than you found it.
+pack out what you pack in (no tech debt).
 
