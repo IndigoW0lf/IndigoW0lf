@@ -35,7 +35,7 @@ I'm particularly interested in:
 
 <!-- Languages card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&layout=compact&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff"/>
+  <img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/>
 </a>
 
 ### 🔥 **Current + Recent Projects:**
