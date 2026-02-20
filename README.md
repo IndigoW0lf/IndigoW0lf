@@ -13,7 +13,7 @@
 
 </div>
 
-welcome — i'm really glad you're here <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="22" alt="" style="vertical-align: middle" />
+welcome — i'm really glad you're here <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/peace.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="18" height="22" alt="" style="vertical-align: middle" />
 
 i'm a front-end engineer by day and a builder of intentional things by night. i work mostly in React, TypeScript, and GraphQL, shaping interfaces that feel calm, intuitive, and alive.
 
@@ -27,7 +27,7 @@ it should feel like it's in conversation with you.
 <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/lightning.svg" width="18" height="22" alt="" style="vertical-align: middle" /> fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/moon.svg" width="18" height="22" alt="" style="vertical-align: middle" /> what pulls me forward
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/battery-plus.svg" width="18" height="22" alt="" style="vertical-align: middle" /> what pulls me forward
 
 i'm especially drawn to:
 
@@ -44,7 +44,7 @@ systems that support people instead of overwhelming them.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flame.svg" width="18" height="22" alt="" style="vertical-align: middle" /> current explorations
+### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/moon.svg" width="18" height="22" alt="" style="vertical-align: middle" /> current explorations
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg"/></a>
 
@@ -52,14 +52,14 @@ systems that support people instead of overwhelming them.
 - designing AI-driven interfaces that feel intuitive rather than intrusive
 - deepening my TypeScript and modern React practice
 
-<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/rocket-launch.svg" width="18" height="22" alt="" style="vertical-align: middle" /> **past builds**
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/book-open.svg" width="18" height="22" alt="" style="vertical-align: middle" /> **past builds**
 
 - [OutdatedEducator](https://github.com/IndigoW0lf/OutdatedEducator) — API project evaluating educational content
 - [Policy Pulse](https://github.com/IndigoW0lf/PolicyPulse) — simplifying legislation through AI
 - [Songs for Solidarity](https://github.com/IndigoW0lf/SongsForSolidarity) — curated music for social impact
 - [Storytime Reading Tracker](https://github.com/IndigoW0lf/Storytime_Reading_Tracker) — a cozy React app for tracking reading progress
 
-each project has been a small ritual: research, build, refine, release. <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/coffee.svg" width="18" height="22" alt="" style="vertical-align: middle" />
+each project has been a small ritual: research, build, refine, release.
 
 ---
 <div align="center">✦ ✧ ✦</div>
@@ -106,8 +106,11 @@ JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Co
 
 
 ### <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="18" height="22" alt="" style="vertical-align: middle" /> work atmosphere
+
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/potted-plant.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flower-tulip.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/sun-dim.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/sparkle.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/coffee.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/cat.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flower-lotus.svg" width="18" height="22" alt="" style="vertical-align: middle" /> <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/yin-yang.svg" width="18" height="22" alt="" style="vertical-align: middle" />
+
 plants everywhere. natural light. soft lamps.  
-reggae rock or deep-focus playlists. <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="18" height="22" alt="" style="vertical-align: middle" />  
+reggae rock or deep-focus playlists.  
 three cats acting as silent QA.  
 coffee or oat milk chai, depending on the sprint.
 
