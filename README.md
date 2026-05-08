@@ -22,7 +22,7 @@ it should feel like it's in conversation with you.
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/lightning.svg" width="16" height="16" /> what pulls me forward</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/lightning.svg) what pulls me forward
 
 i'm especially drawn to:
 
@@ -35,7 +35,7 @@ i'm especially drawn to:
 i want to build tools that feel intentional — not extractive.  
 systems that support people instead of overwhelming them.
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/rocket-launch.svg" width="16" height="16" /> current explorations</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/rocket-launch.svg) current explorations
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg" /></a>
 
@@ -56,13 +56,13 @@ each project has been a small ritual: research, build, refine, release.
 
 <img align="right" alt="Avatar" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/avatar.png" width="450" height="auto"/>  
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="16" height="16" /> things that matter to me</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg) things that matter to me
 
 - accessible, human-centered design
 - modern front-end craft
-- <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/peace.svg" width="14" height="14" /> social & environmental justice
-- <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="14" height="14" /> permaculture + soil science
-- <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="14" height="14" /> music, storytelling, and shared narrative
+- ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/peace.svg) social & environmental justice
+- ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg) permaculture + soil science
+- ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg) music, storytelling, and shared narrative
 - the ethical intersection of AI & UX
 
 i think about cycles — seasons in life, seasons in products.  
@@ -77,7 +77,7 @@ JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Co
 
 and whatever tools the next experiment calls for
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg" width="16" height="16" /> tools in my orbit</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg) tools in my orbit
 
 - **Cursor** (a thinking companion)
 - **Figma** (where form begins to whisper)
@@ -87,15 +87,18 @@ and whatever tools the next experiment calls for
 
 <div align="center">✦ ✧ ✦</div>
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/potted-plant.svg" width="16" height="16" /> work atmosphere</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/potted-plant.svg) work atmosphere
 
-<p><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flower-lotus.svg" width="14" height="14" /> plants everywhere. natural light. soft lamps.<br/><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="14" height="14" /> reggae rock or deep-focus playlists.<br/><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/cat.svg" width="14" height="14" /> three cats acting as silent QA.<br/><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/coffee.svg" width="14" height="14" /> coffee or oat milk chai, depending on the sprint.</p>
+![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flower-lotus.svg) plants everywhere. natural light. soft lamps.  
+![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg) reggae rock or deep-focus playlists.  
+![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/cat.svg) three cats acting as silent QA.  
+![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/coffee.svg) coffee or oat milk chai, depending on the sprint.
 
 flow state feels like meditation with a keyboard.
 
 <div align="center">✦ ✧ ✦</div>
 
-<h3><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/yin-yang.svg" width="16" height="16" /> philosophy</h3>
+### ![](https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/yin-yang.svg) philosophy
 
 - good UX is empathy practiced consistently.
 - accessibility is a baseline, not a feature.
