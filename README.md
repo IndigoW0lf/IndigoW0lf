@@ -22,7 +22,7 @@ it should feel like it's in conversation with you.
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
 
-### what pulls me forward
+### what pulls me forward <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/lightning.svg" width="16" height="16" />
 
 i'm especially drawn to:
 
@@ -35,9 +35,7 @@ i'm especially drawn to:
 i want to build tools that feel intentional — not extractive.  
 systems that support people instead of overwhelming them.
 
----
-
-### current explorations
+### current explorations <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/rocket-launch.svg" width="16" height="16" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg" /></a>
 
@@ -54,19 +52,17 @@ systems that support people instead of overwhelming them.
 
 each project has been a small ritual: research, build, refine, release.
 
----
 <div align="center">✦ ✧ ✦</div>
----
 
 <img align="right" alt="Avatar" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/images/avatar.png" width="450" height="auto"/>  
 
-### things that matter to me
+### things that matter to me <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/heart.svg" width="16" height="16" />
 
 - accessible, human-centered design
 - modern front-end craft
-- social & environmental justice
-- permaculture + soil science
-- music, storytelling, and shared narrative
+- social & environmental justice <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/peace.svg" width="14" height="14" />
+- permaculture + soil science <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/leaf.svg" width="14" height="14" />
+- music, storytelling, and shared narrative <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="14" height="14" />
 - the ethical intersection of AI & UX
 
 i think about cycles — seasons in life, seasons in products.  
@@ -81,7 +77,7 @@ JavaScript · React · Next.js · TypeScript · GraphQL · Tailwind · Styled Co
 
 and whatever tools the next experiment calls for
 
-### tools in my orbit
+### tools in my orbit <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/star.svg" width="16" height="16" />
 
 - **Cursor** (a thinking companion)
 - **Figma** (where form begins to whisper)
@@ -89,24 +85,20 @@ and whatever tools the next experiment calls for
 - **XTool Studio** (digital ideas made tangible)
 - **Trello + Jira** (rituals of order in creative chaos)
 
----
 <div align="center">✦ ✧ ✦</div>
----
 
-### work atmosphere
+### work atmosphere <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/potted-plant.svg" width="16" height="16" />
 
-plants everywhere. natural light. soft lamps.  
-reggae rock or deep-focus playlists.  
-three cats acting as silent QA.  
-coffee or oat milk chai, depending on the sprint.
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/flower-lotus.svg" width="14" height="14" /> plants everywhere. natural light. soft lamps.  
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/music-notes.svg" width="14" height="14" /> reggae rock or deep-focus playlists.  
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/cat.svg" width="14" height="14" /> three cats acting as silent QA.  
+<img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/coffee.svg" width="14" height="14" /> coffee or oat milk chai, depending on the sprint.
 
 flow state feels like meditation with a keyboard.
 
----
 <div align="center">✦ ✧ ✦</div>
----
 
-### philosophy
+### philosophy <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/yin-yang.svg" width="16" height="16" />
 
 - good UX is empathy practiced consistently.
 - accessibility is a baseline, not a feature.
