@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=header)
+
 # hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&label=Profile%20Views&color=ffb6c1&style=flat)
 
 <p align="right"><a href="https://www.linkedin.com/in/indigowolf/"><img src="https://img.shields.io/badge/LinkedIn-1a0a2e?logo=linkedin&logoColor=f8b4d9" height="25" alt="LinkedIn" /></a> <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://img.shields.io/badge/Spotify-1a0a2e?logo=spotify&logoColor=f8b4d9" height="25" alt="Spotify" /></a> <a href="https://www.instagram.com/indigow0lf/"><img src="https://img.shields.io/badge/Instagram-1a0a2e?logo=instagram&logoColor=f8b4d9" height="25" alt="Instagram" /></a> <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/Devpost-1a0a2e?logo=devpost&logoColor=f8b4d9" height="25" alt="Devpost" /></a></p>
@@ -17,7 +19,7 @@ i care about rhythm in systems — how a product flows, how a user moves through
 software shouldn't just function.  
 it should feel like it's in conversation with you.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/github-stats.svg" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg" /></a>
 
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
@@ -87,6 +89,10 @@ and whatever tools the next experiment calls for
 
 <div align="center">✦ ✧ ✦</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=IndigoW0lf&background=1a0a2e&border=f8b4d9&stroke=f8b4d9&ring=f8b4d9&fire=f8b4d9&currStreakNum=e8d5e7&sideNums=e8d5e7&currStreakLabel=f8b4d9&sideLabels=b8a9c9&dates=b8a9c9&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ### work atmosphere
 
 plants everywhere. natural light. soft lamps.  
@@ -108,3 +114,9 @@ flow state feels like meditation with a keyboard.
 build with intention.  
 refactor with care.  
 pack out what you pack in (no tech debt).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/github-snake.svg" alt="contribution snake" />
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=footer)

@@ -1,0 +1,25 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-snake.svg?color_snake=%23f8b4d9&color_dots=%231a0a2e,%232d1b4e,%239dd9d6,%23b8a9c9,%23f8b4d9
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/github-snake.svg
+          git commit -m "Update contribution snake" || exit 0
+          git push
