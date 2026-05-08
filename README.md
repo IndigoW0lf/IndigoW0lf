@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,100:f8b4d9&height=140&section=header)
 
 # hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&label=Profile%20Views&color=ffb6c1&style=flat)
 
@@ -19,7 +19,7 @@ i care about rhythm in systems — how a product flows, how a user moves through
 software shouldn't just function.  
 it should feel like it's in conversation with you.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" height="270" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg" /></a>
 
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
@@ -115,8 +115,4 @@ build with intention.
 refactor with care.  
 pack out what you pack in (no tech debt).
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/github-snake.svg" alt="contribution snake" />
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1a0a2e&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f8b4d9,100:1a0a2e&height=140&section=footer)
