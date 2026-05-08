@@ -1,11 +1,6 @@
 # hi, i'm kai indigo wolf  ![Profile Views](https://komarev.com/ghpvc/?username=IndigoW0lf&label=Profile%20Views&color=ffb6c1&style=flat)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="20" alt="Spotify" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="20" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/devpost-logo.svg" width="20" height="20" alt="Devpost" /></a>
-</p>
+<p align="right"><a href="https://www.linkedin.com/in/indigowolf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/linkedin-logo.svg" width="20" height="24" alt="LinkedIn" style="vertical-align: middle;" /></a><a href="https://open.spotify.com/user/vjj98sn4y4ul42h310k2yzrk7?si=2nNnaO-aTW-cYC6ZaHuvFg"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/spotify-logo.svg" width="20" height="24" alt="Spotify" style="vertical-align: middle;" /></a><a href="https://www.instagram.com/indigow0lf/"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/instagram-logo.svg" width="20" height="24" alt="Instagram" style="vertical-align: middle;" /></a><a href="https://devpost.com/IndigoW0lf?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/assets/icons/devpost-logo.svg" width="20" height="24" alt="Devpost" style="vertical-align: middle;" /></a></p>
 
 <div align="center">
 
