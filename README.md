@@ -19,10 +19,17 @@ i care about rhythm in systems — how a product flows, how a user moves through
 software shouldn't just function.  
 it should feel like it's in conversation with you.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Kai's GitHub Stats" width="450" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/stats.svg" /></a>
-
 fast. accessible. thoughtful.  
 no friction. no noise. no unnecessary ornament.
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    align="right"
+    alt="GitHub Stats"
+    width="450"
+    src="https://github-stats-extended.vercel.app/api?username=IndigoW0lf&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent&title_color=f8b4d9&text_color=e8d5e7&icon_color=f8b4d9&border_color=f8b4d9&bg_color=1a0a2e00"
+  />
+</a>
 
 ### what pulls me forward
 
@@ -39,7 +46,14 @@ systems that support people instead of overwhelming them.
 
 ### current explorations
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="450" alt="Top Languages" src="https://raw.githubusercontent.com/IndigoW0lf/IndigoW0lf/main/profile/top-langs.svg" /></a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    align="right"
+    width="450"
+    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=IndigoW0lf&layout=compact&theme=transparent&title_color=f8b4d9&text_color=e8d5e7&icon_color=f8b4d9&border_color=f8b4d9&bg_color=1a0a2e00"
+  />
+</a>
 
 - growing a body of work that feels aligned and sustainable
 - designing AI-driven interfaces that feel intuitive rather than intrusive
